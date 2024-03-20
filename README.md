@@ -5,6 +5,31 @@
 ### CFW线上文档副本：[Wiki](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki)
 ***
 
+# 导航至你想要前往的Github存储库
+
+### 前往[Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg)
+
+### 前往[Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
+
+## 其它存储库
+
+### 前往[Clash-for-Windows_Rule](https://github.com/Z-Siqi/Clash-for-Windows_Rule)
+### 前往[YouTube Premium区域价格表](https://github.com/Z-Siqi/YT-Premium-Area-price)
+
+***
+
+### 其它可能对你有用的网站
+
+**前往[Clash订阅转换器](https://acl4ssr-sub.github.io)**
+
+**前往[Github](https://github.com)**
+
+**前往[Google](https://google.com)**
+
+**前往[Bing](https://www.bing.com)**
+
+**前往[WolframAlpha](https://www.wolframalpha.com/)**
+
 # Clash for Windows Chinese<img src="https://github.com/Z-Siqi/Clash-for-Windows_Chinese/blob/main/image/image_clash.png?raw=true" width="30" height="30">
 ### Clash 汉化版
 
